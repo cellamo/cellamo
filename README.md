@@ -6,7 +6,7 @@
 ### <div align="center">I'm Zafer, a full-time student and a part-time freelancer developer</div>  
   
 
-- 🔭 I’m currently working on -:(-  
+- 🔭 I’m studying Computer Science at Hacettepe University  
   
 
 - 🌱 I’m currently learning Flutter  
